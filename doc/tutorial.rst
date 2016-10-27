@@ -116,3 +116,16 @@ Demonstrates the deconvolution of two time series. See the
 
 .. literalinclude:: snippets/figure_6.py
     :language: python
+
+Fig. 7: Earthquake source time function 
+------------------------------------------------------
+
+This example demostrate how to compute the relative source time function 
+of a "Target event" using the empirical Green's function approach. 
+:func:`mtspec.multitaper.mt_deconvolve` function for details.
+
+
+
+
+
+
